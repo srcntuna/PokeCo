@@ -19,8 +19,8 @@
 
 5. Run the command listPokemons to query the average weight and height for all the Pokemon in the subset based on limit and offset of
 
-````
+```
     node index.js listPokemons limit offset
-    ```
 
-````
+
+```
