@@ -1,0 +1,22 @@
+{
+  "name": "pokemon-cli",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.2.0",
+    "conf": "^10.1.2",
+    "fs": "^0.0.1-security",
+    "jest": "^28.0.3",
+    "node-fetch": "^3.2.4",
+    "persistent-cache": "^1.1.2",
+    "request": "^2.88.2"
+  }
+}
